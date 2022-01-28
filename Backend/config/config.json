@@ -1,0 +1,6 @@
+{
+  "host": "ec2-107-21-88-36.compute-1.amazonaws.com",
+  "user": "admin",
+  "database": "TestGPT",
+  "password": "Mysql@1234"
+}
